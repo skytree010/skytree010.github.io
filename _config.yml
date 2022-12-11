@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "How to do that"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "SKYTREE010"
+name                     : "SKYTREE"
 description              : "FPGA, verilog, pcb design, network, c++, and more.. devlog"
 url                      : "https://skytree010.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "SKYTREE010"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "dot dot dot"
+  name             : "SKYTREE"
+  avatar           : "/assets/images/bio/bio-photo.jpg"
+  bio              : "FPGA, verilog, pcb design, network, c++ dot dot dot"
   location         : "korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -156,7 +156,8 @@ footer:
 include:
   - .htaccess
   - _pages
-  - post
+  - DEV
+  - life
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
