@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   - title: "Life"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /posts/life/
   - title: "DEV"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /posts/DEV/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
